@@ -1,0 +1,10 @@
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\bin\Debug\PicView1.exe.config
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\bin\Debug\PicView1.exe
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\bin\Debug\PicView1.pdb
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.csprojResolveAssemblyReference.cache
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.Properties.Resources.resources
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.csproj.GenerateResource.Cache
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.csproj.CoreCompileInputs.cache
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.exe
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.pdb
+C:\Users\kmaksimik\source\repos\PicView1\PicView1\obj\Debug\PicView1.Form1.resources
