@@ -1,0 +1,12 @@
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\bin\Debug\DatabaseApp1.exe.config
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\bin\Debug\DatabaseApp1.exe
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\bin\Debug\DatabaseApp1.pdb
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.csprojResolveAssemblyReference.cache
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.FillOrCancel.resources
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.Navigation.resources
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.NewCustomer.resources
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.Properties.Resources.resources
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.csproj.GenerateResource.Cache
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.csproj.CoreCompileInputs.cache
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.exe
+C:\Users\kmaksimik\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.pdb
